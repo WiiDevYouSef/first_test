@@ -1,0 +1,29 @@
+.div-2{
+    width: 100vw;
+    display: flex;
+    align-items: centre;
+}
+.hamza{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTWYenGebfzJCuwiR4WdjzTzI7BdavwbbeHA&s);
+    width: 100vw;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.hamza>h1{
+    font-size: 50px;
+    color: white;
+}
+.hamza>p{
+    font-size: 30px;
+    color: white;
+}
+.hamza>button{
+    padding: 2vh 3vw;
+    border-radius: 15px;
+}
